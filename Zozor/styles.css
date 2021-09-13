@@ -1,0 +1,47 @@
+#banniere
+{
+    width: 100%;
+	height: 270px;
+}
+
+ul
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70%;
+    margin-right: 3%;
+}
+
+a:link
+{
+    text-decoration: none;
+    color: white;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+.link
+{
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 12px;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+}
+
+h1
+{
+    margin-left: 2%;
+}
+
+article
+{
+    margin-right: 45%;
+    margin-left: 4%;
+}
