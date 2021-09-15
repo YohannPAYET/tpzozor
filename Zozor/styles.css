@@ -1,10 +1,4 @@
 
-#bloc_page
-{
-    width: 900px;
-    margin: auto;
-}
-
 body
 {
     background-color: lemonchiffon;
@@ -181,7 +175,7 @@ h3
 {
     width: 101.53%;
     height: 1px;
-    margin-top: 4%;
+    margin-top: 6%;
     margin-left: -1%;
 }
 
