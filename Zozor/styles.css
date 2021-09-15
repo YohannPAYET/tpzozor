@@ -85,7 +85,7 @@ section h1, footer h1
     color: ivory;
 }
 
-#liste1
+#liste
 {
     display: flex;
     justify-content: space-between;
@@ -198,16 +198,15 @@ h3
     margin-left: 33%;
 }
 
-.liste2
+#title_modif
 {
-    display: flex;
-    justify-content: space-between;
+    position:absolute;
+    margin-top: -1.5%; 
 }
 
 #pdp4
 {
-    position: absolute;
     display: flex;
-    margin-top: -10.2%;
+    margin-top: -7.2%;
     margin-left: 65%;
 }
